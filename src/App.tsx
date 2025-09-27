@@ -1,5 +1,3 @@
-import viteLogo from '/logo/full.svg'
-
 function App() {
 
   return (
