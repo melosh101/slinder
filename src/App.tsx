@@ -12,6 +12,7 @@ function App() {
         </svg>
 
         <div className='-translate-y-24'>
+          <p>find din næste "ven" 😊</p>
           <h1 className='text-6xl'>Siden er under opbygning</h1>
           <p className='text-3xl mt-2'>kommer snart😉</p>
         </div>
